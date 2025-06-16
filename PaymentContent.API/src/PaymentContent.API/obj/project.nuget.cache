@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxGU9dvn9bo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keoxc.000\\source\\repos\\payment_content\\PaymentContent.API\\src\\PaymentContent.API\\PaymentContent.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keoxc.000\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\keoxc.000\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
